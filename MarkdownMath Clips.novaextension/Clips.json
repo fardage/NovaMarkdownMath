@@ -1,0 +1,5806 @@
+{
+  "clips": [
+      {
+          "content": "$AUTHOR_NAME",
+          "name": "User Signature",
+          "trigger": "usersig"
+      },
+      {
+          "name": "0",
+          "children": [
+              {
+                  "content": "\\lparen",
+                  "name": "lparen",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lparen"
+              },
+              {
+                  "content": "\\rparen",
+                  "name": "rparen",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rparen"
+              },
+              {
+                  "content": "\\lceil",
+                  "name": "lceil",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lceil"
+              },
+              {
+                  "content": "\\rceil",
+                  "name": "rceil",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rceil"
+              },
+              {
+                  "content": "\\uparrow",
+                  "name": "uparrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "uparrow"
+              },
+              {
+                  "content": "\\lbrack",
+                  "name": "lbrack",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lbrack"
+              },
+              {
+                  "content": "\\rbrack",
+                  "name": "rbrack",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rbrack"
+              },
+              {
+                  "content": "\\lfloor",
+                  "name": "lfloor",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lfloor"
+              },
+              {
+                  "content": "\\rfloor",
+                  "name": "rfloor",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rfloor"
+              },
+              {
+                  "content": "\\downarrow",
+                  "name": "downarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "downarrow"
+              },
+              {
+                  "content": "\\lbrace",
+                  "name": "lbrace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lbrace"
+              },
+              {
+                  "content": "\\rbrace",
+                  "name": "rbrace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rbrace"
+              },
+              {
+                  "content": "\\lmoustache",
+                  "name": "lmoustache",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lmoustache"
+              },
+              {
+                  "content": "\\rmoustache",
+                  "name": "rmoustache",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rmoustache"
+              },
+              {
+                  "content": "\\updownarrow",
+                  "name": "updownarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "updownarrow"
+              },
+              {
+                  "content": "\\langle",
+                  "name": "langle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "langle"
+              },
+              {
+                  "content": "\\rangle",
+                  "name": "rangle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rangle"
+              },
+              {
+                  "content": "\\lgroup",
+                  "name": "lgroup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lgroup"
+              },
+              {
+                  "content": "\\rgroup",
+                  "name": "rgroup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rgroup"
+              },
+              {
+                  "content": "\\Uparrow",
+                  "name": "Uparrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Uparrow"
+              },
+              {
+                  "content": "\\vert",
+                  "name": "vert",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vert"
+              },
+              {
+                  "content": "\\ulcorner",
+                  "name": "ulcorner",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ulcorner"
+              },
+              {
+                  "content": "\\urcorner",
+                  "name": "urcorner",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "urcorner"
+              },
+              {
+                  "content": "\\Downarrow",
+                  "name": "Downarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Downarrow"
+              },
+              {
+                  "content": "\\Vert",
+                  "name": "Vert",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Vert"
+              },
+              {
+                  "content": "\\llcorner",
+                  "name": "llcorner",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "llcorner"
+              },
+              {
+                  "content": "\\lrcorner",
+                  "name": "lrcorner",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lrcorner"
+              },
+              {
+                  "content": "\\Updownarrow",
+                  "name": "Updownarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Updownarrow"
+              },
+              {
+                  "content": "\\lvert",
+                  "name": "lvert",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lvert"
+              },
+              {
+                  "content": "\\rvert",
+                  "name": "rvert",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rvert"
+              },
+              {
+                  "content": "\\lVert",
+                  "name": "lVert",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lVert"
+              },
+              {
+                  "content": "\\rVert",
+                  "name": "rVert",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rVert"
+              },
+              {
+                  "content": "\\backslash",
+                  "name": "backslash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "backslash"
+              },
+              {
+                  "content": "\\lang",
+                  "name": "lang",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lang"
+              },
+              {
+                  "content": "\\rang",
+                  "name": "rang",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rang"
+              },
+              {
+                  "content": "\\lt",
+                  "name": "lt",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lt"
+              },
+              {
+                  "content": "\\gt",
+                  "name": "gt",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gt"
+              },
+              {
+                  "content": "\\llbracket",
+                  "name": "llbracket",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "llbracket"
+              },
+              {
+                  "content": "\\rrbracket",
+                  "name": "rrbracket",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rrbracket"
+              },
+              {
+                  "content": "\\lBrace",
+                  "name": "lBrace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lBrace"
+              },
+              {
+                  "content": "\\rBrace",
+                  "name": "rBrace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rBrace"
+              },
+              {
+                  "content": "\\left",
+                  "name": "left",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "left"
+              },
+              {
+                  "content": "\\big",
+                  "name": "big",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "big"
+              },
+              {
+                  "content": "\\bigl",
+                  "name": "bigl",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigl"
+              },
+              {
+                  "content": "\\bigm",
+                  "name": "bigm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigm"
+              },
+              {
+                  "content": "\\bigr",
+                  "name": "bigr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigr"
+              },
+              {
+                  "content": "\\middle",
+                  "name": "middle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "middle"
+              },
+              {
+                  "content": "\\Big",
+                  "name": "Big",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Big"
+              },
+              {
+                  "content": "\\Bigl",
+                  "name": "Bigl",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bigl"
+              },
+              {
+                  "content": "\\Bigm",
+                  "name": "Bigm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bigm"
+              },
+              {
+                  "content": "\\Bigr",
+                  "name": "Bigr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bigr"
+              },
+              {
+                  "content": "\\right",
+                  "name": "right",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "right"
+              },
+              {
+                  "content": "\\bigg",
+                  "name": "bigg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigg"
+              },
+              {
+                  "content": "\\biggl",
+                  "name": "biggl",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "biggl"
+              },
+              {
+                  "content": "\\biggm",
+                  "name": "biggm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "biggm"
+              },
+              {
+                  "content": "\\biggr",
+                  "name": "biggr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "biggr"
+              },
+              {
+                  "content": "\\Bigg",
+                  "name": "Bigg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bigg"
+              },
+              {
+                  "content": "\\Biggl",
+                  "name": "Biggl",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Biggl"
+              },
+              {
+                  "content": "\\Biggm",
+                  "name": "Biggm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Biggm"
+              },
+              {
+                  "content": "\\Biggr",
+                  "name": "Biggr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Biggr"
+              },
+              {
+                  "content": "\\Alpha",
+                  "name": "Alpha",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Alpha"
+              },
+              {
+                  "content": "\\Beta",
+                  "name": "Beta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Beta"
+              },
+              {
+                  "content": "\\Gamma",
+                  "name": "Gamma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Gamma"
+              },
+              {
+                  "content": "\\Delta",
+                  "name": "Delta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Delta"
+              },
+              {
+                  "content": "\\Epsilon",
+                  "name": "Epsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Epsilon"
+              },
+              {
+                  "content": "\\Zeta",
+                  "name": "Zeta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Zeta"
+              },
+              {
+                  "content": "\\Eta",
+                  "name": "Eta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Eta"
+              },
+              {
+                  "content": "\\Theta",
+                  "name": "Theta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Theta"
+              },
+              {
+                  "content": "\\Iota",
+                  "name": "Iota",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Iota"
+              },
+              {
+                  "content": "\\Kappa",
+                  "name": "Kappa",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Kappa"
+              },
+              {
+                  "content": "\\Lambda",
+                  "name": "Lambda",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Lambda"
+              },
+              {
+                  "content": "\\Mu",
+                  "name": "Mu",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Mu"
+              },
+              {
+                  "content": "\\Nu",
+                  "name": "Nu",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Nu"
+              },
+              {
+                  "content": "\\Xi",
+                  "name": "Xi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Xi"
+              },
+              {
+                  "content": "\\Omicron",
+                  "name": "Omicron",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Omicron"
+              },
+              {
+                  "content": "\\Pi",
+                  "name": "Pi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Pi"
+              },
+              {
+                  "content": "\\Rho",
+                  "name": "Rho",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Rho"
+              },
+              {
+                  "content": "\\Sigma",
+                  "name": "Sigma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Sigma"
+              },
+              {
+                  "content": "\\Tau",
+                  "name": "Tau",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Tau"
+              },
+              {
+                  "content": "\\Upsilon",
+                  "name": "Upsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Upsilon"
+              },
+              {
+                  "content": "\\Phi",
+                  "name": "Phi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Phi"
+              },
+              {
+                  "content": "\\Chi",
+                  "name": "Chi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Chi"
+              },
+              {
+                  "content": "\\Psi",
+                  "name": "Psi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Psi"
+              },
+              {
+                  "content": "\\Omega",
+                  "name": "Omega",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Omega"
+              },
+              {
+                  "content": "\\varGamma",
+                  "name": "varGamma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varGamma"
+              },
+              {
+                  "content": "\\varDelta",
+                  "name": "varDelta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varDelta"
+              },
+              {
+                  "content": "\\varTheta",
+                  "name": "varTheta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varTheta"
+              },
+              {
+                  "content": "\\varLambda",
+                  "name": "varLambda",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varLambda"
+              },
+              {
+                  "content": "\\varXi",
+                  "name": "varXi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varXi"
+              },
+              {
+                  "content": "\\varPi",
+                  "name": "varPi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varPi"
+              },
+              {
+                  "content": "\\varSigma",
+                  "name": "varSigma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varSigma"
+              },
+              {
+                  "content": "\\varUpsilon",
+                  "name": "varUpsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varUpsilon"
+              },
+              {
+                  "content": "\\varPhi",
+                  "name": "varPhi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varPhi"
+              },
+              {
+                  "content": "\\varPsi",
+                  "name": "varPsi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varPsi"
+              },
+              {
+                  "content": "\\varOmega",
+                  "name": "varOmega",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varOmega"
+              },
+              {
+                  "content": "\\alpha",
+                  "name": "alpha",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "alpha"
+              },
+              {
+                  "content": "\\beta",
+                  "name": "beta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "beta"
+              },
+              {
+                  "content": "\\gamma",
+                  "name": "gamma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gamma"
+              },
+              {
+                  "content": "\\delta",
+                  "name": "delta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "delta"
+              },
+              {
+                  "content": "\\epsilon",
+                  "name": "epsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "epsilon"
+              },
+              {
+                  "content": "\\zeta",
+                  "name": "zeta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "zeta"
+              },
+              {
+                  "content": "\\eta",
+                  "name": "eta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eta"
+              },
+              {
+                  "content": "\\theta",
+                  "name": "theta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "theta"
+              },
+              {
+                  "content": "\\iota",
+                  "name": "iota",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "iota"
+              },
+              {
+                  "content": "\\kappa",
+                  "name": "kappa",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "kappa"
+              },
+              {
+                  "content": "\\lambda",
+                  "name": "lambda",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lambda"
+              },
+              {
+                  "content": "\\mu",
+                  "name": "mu",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mu"
+              },
+              {
+                  "content": "\\nu",
+                  "name": "nu",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nu"
+              },
+              {
+                  "content": "\\xi",
+                  "name": "xi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xi"
+              },
+              {
+                  "content": "\\omicron",
+                  "name": "omicron",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "omicron"
+              },
+              {
+                  "content": "\\pi",
+                  "name": "pi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "pi"
+              },
+              {
+                  "content": "\\rho",
+                  "name": "rho",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rho"
+              },
+              {
+                  "content": "\\sigma",
+                  "name": "sigma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sigma"
+              },
+              {
+                  "content": "\\tau",
+                  "name": "tau",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tau"
+              },
+              {
+                  "content": "\\upsilon",
+                  "name": "upsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "upsilon"
+              },
+              {
+                  "content": "\\phi",
+                  "name": "phi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "phi"
+              },
+              {
+                  "content": "\\chi",
+                  "name": "chi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "chi"
+              },
+              {
+                  "content": "\\psi",
+                  "name": "psi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "psi"
+              },
+              {
+                  "content": "\\omega",
+                  "name": "omega",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "omega"
+              },
+              {
+                  "content": "\\varepsilon",
+                  "name": "varepsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varepsilon"
+              },
+              {
+                  "content": "\\varkappa",
+                  "name": "varkappa",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varkappa"
+              },
+              {
+                  "content": "\\vartheta",
+                  "name": "vartheta",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vartheta"
+              },
+              {
+                  "content": "\\thetasym",
+                  "name": "thetasym",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "thetasym"
+              },
+              {
+                  "content": "\\varpi",
+                  "name": "varpi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varpi"
+              },
+              {
+                  "content": "\\varrho",
+                  "name": "varrho",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varrho"
+              },
+              {
+                  "content": "\\varsigma",
+                  "name": "varsigma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varsigma"
+              },
+              {
+                  "content": "\\varphi",
+                  "name": "varphi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varphi"
+              },
+              {
+                  "content": "\\digamma",
+                  "name": "digamma",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "digamma"
+              },
+              {
+                  "content": "\\imath",
+                  "name": "imath",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "imath"
+              },
+              {
+                  "content": "\\nabla",
+                  "name": "nabla",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nabla"
+              },
+              {
+                  "content": "\\Im",
+                  "name": "Im",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Im"
+              },
+              {
+                  "content": "\\Reals",
+                  "name": "Reals",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Reals"
+              },
+              {
+                  "content": "\\jmath",
+                  "name": "jmath",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "jmath"
+              },
+              {
+                  "content": "\\partial",
+                  "name": "partial",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "partial"
+              },
+              {
+                  "content": "\\image",
+                  "name": "image",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "image"
+              },
+              {
+                  "content": "\\wp",
+                  "name": "wp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "wp"
+              },
+              {
+                  "content": "\\aleph",
+                  "name": "aleph",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "aleph"
+              },
+              {
+                  "content": "\\Game",
+                  "name": "Game",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Game"
+              },
+              {
+                  "content": "\\Bbbk",
+                  "name": "Bbbk",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bbbk"
+              },
+              {
+                  "content": "\\weierp",
+                  "name": "weierp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "weierp"
+              },
+              {
+                  "content": "\\alef",
+                  "name": "alef",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "alef"
+              },
+              {
+                  "content": "\\Finv",
+                  "name": "Finv",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Finv"
+              },
+              {
+                  "content": "\\N",
+                  "name": "N",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "N"
+              },
+              {
+                  "content": "\\Z",
+                  "name": "Z",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Z"
+              },
+              {
+                  "content": "\\alefsym",
+                  "name": "alefsym",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "alefsym"
+              },
+              {
+                  "content": "\\cnums",
+                  "name": "cnums",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cnums"
+              },
+              {
+                  "content": "\\natnums",
+                  "name": "natnums",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "natnums"
+              },
+              {
+                  "content": "\\beth",
+                  "name": "beth",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "beth"
+              },
+              {
+                  "content": "\\Complex",
+                  "name": "Complex",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Complex"
+              },
+              {
+                  "content": "\\R",
+                  "name": "R",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "R"
+              },
+              {
+                  "content": "\\gimel",
+                  "name": "gimel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gimel"
+              },
+              {
+                  "content": "\\ell",
+                  "name": "ell",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ell"
+              },
+              {
+                  "content": "\\Re",
+                  "name": "Re",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Re"
+              },
+              {
+                  "content": "\\daleth",
+                  "name": "daleth",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "daleth"
+              },
+              {
+                  "content": "\\hbar",
+                  "name": "hbar",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hbar"
+              },
+              {
+                  "content": "\\real",
+                  "name": "real",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "real"
+              },
+              {
+                  "content": "\\eth",
+                  "name": "eth",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eth"
+              },
+              {
+                  "content": "\\hslash",
+                  "name": "hslash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hslash"
+              },
+              {
+                  "content": "\\reals",
+                  "name": "reals",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "reals"
+              },
+              {
+                  "content": "\\thinspace",
+                  "name": "thinspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "thinspace"
+              },
+              {
+                  "content": "\\medspace",
+                  "name": "medspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "medspace"
+              },
+              {
+                  "content": "\\thickspace",
+                  "name": "thickspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "thickspace"
+              },
+              {
+                  "content": "\\enspace",
+                  "name": "enspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "enspace"
+              },
+              {
+                  "content": "\\quad",
+                  "name": "quad",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "quad"
+              },
+              {
+                  "content": "\\qquad",
+                  "name": "qquad",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "qquad"
+              },
+              {
+                  "content": "\\negthinspace",
+                  "name": "negthinspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "negthinspace"
+              },
+              {
+                  "content": "\\negmedspace",
+                  "name": "negmedspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "negmedspace"
+              },
+              {
+                  "content": "\\nobreakspace",
+                  "name": "nobreakspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nobreakspace"
+              },
+              {
+                  "content": "\\negthickspace",
+                  "name": "negthickspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "negthickspace"
+              },
+              {
+                  "content": "\\atop",
+                  "name": "atop",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "atop"
+              },
+              {
+                  "content": "\\forall",
+                  "name": "forall",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "forall"
+              },
+              {
+                  "content": "\\complement",
+                  "name": "complement",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "complement"
+              },
+              {
+                  "content": "\\therefore",
+                  "name": "therefore",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "therefore"
+              },
+              {
+                  "content": "\\emptyset",
+                  "name": "emptyset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "emptyset"
+              },
+              {
+                  "content": "\\exists",
+                  "name": "exists",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "exists"
+              },
+              {
+                  "content": "\\subset",
+                  "name": "subset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "subset"
+              },
+              {
+                  "content": "\\because",
+                  "name": "because",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "because"
+              },
+              {
+                  "content": "\\empty",
+                  "name": "empty",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "empty"
+              },
+              {
+                  "content": "\\exist",
+                  "name": "exist",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "exist"
+              },
+              {
+                  "content": "\\supset",
+                  "name": "supset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "supset"
+              },
+              {
+                  "content": "\\mapsto",
+                  "name": "mapsto",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mapsto"
+              },
+              {
+                  "content": "\\varnothing",
+                  "name": "varnothing",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varnothing"
+              },
+              {
+                  "content": "\\nexists",
+                  "name": "nexists",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nexists"
+              },
+              {
+                  "content": "\\mid",
+                  "name": "mid",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mid"
+              },
+              {
+                  "content": "\\to",
+                  "name": "to",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "to"
+              },
+              {
+                  "content": "\\implies",
+                  "name": "implies",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "implies"
+              },
+              {
+                  "content": "\\in",
+                  "name": "in",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "in"
+              },
+              {
+                  "content": "\\land",
+                  "name": "land",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "land"
+              },
+              {
+                  "content": "\\gets",
+                  "name": "gets",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gets"
+              },
+              {
+                  "content": "\\impliedby",
+                  "name": "impliedby",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "impliedby"
+              },
+              {
+                  "content": "\\isin",
+                  "name": "isin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "isin"
+              },
+              {
+                  "content": "\\lor",
+                  "name": "lor",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lor"
+              },
+              {
+                  "content": "\\leftrightarrow",
+                  "name": "leftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftrightarrow"
+              },
+              {
+                  "content": "\\iff",
+                  "name": "iff",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "iff"
+              },
+              {
+                  "content": "\\notin",
+                  "name": "notin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "notin"
+              },
+              {
+                  "content": "\\ni",
+                  "name": "ni",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ni"
+              },
+              {
+                  "content": "\\notni",
+                  "name": "notni",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "notni"
+              },
+              {
+                  "content": "\\neg",
+                  "name": "neg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "neg"
+              },
+              {
+                  "content": "\\lnot",
+                  "name": "lnot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lnot"
+              },
+              {
+                  "content": "\\def",
+                  "name": "def",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "def"
+              },
+              {
+                  "content": "\\gdef",
+                  "name": "gdef",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gdef"
+              },
+              {
+                  "content": "\\edef",
+                  "name": "edef",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "edef"
+              },
+              {
+                  "content": "\\xdef",
+                  "name": "xdef",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xdef"
+              },
+              {
+                  "content": "\\let",
+                  "name": "let",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "let"
+              },
+              {
+                  "content": "\\futurelet",
+                  "name": "futurelet",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "futurelet"
+              },
+              {
+                  "content": "\\global",
+                  "name": "global",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "global"
+              },
+              {
+                  "content": "\\newcommand",
+                  "name": "newcommand",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "newcommand"
+              },
+              {
+                  "content": "\\renewcommand",
+                  "name": "renewcommand",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "renewcommand"
+              },
+              {
+                  "content": "\\providecommand",
+                  "name": "providecommand",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "providecommand"
+              },
+              {
+                  "content": "\\long",
+                  "name": "long",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "long"
+              },
+              {
+                  "content": "\\char",
+                  "name": "char",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "char"
+              },
+              {
+                  "content": "\\mathchoice",
+                  "name": "mathchoice",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathchoice"
+              },
+              {
+                  "content": "\\TextOrMath",
+                  "name": "TextOrMath",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "TextOrMath"
+              },
+              {
+                  "content": "\\ifstar",
+                  "name": "ifstar",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ifstar"
+              },
+              {
+                  "content": "\\ifnextchar",
+                  "name": "ifnextchar",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ifnextchar"
+              },
+              {
+                  "content": "\\firstoftwo",
+                  "name": "firstoftwo",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "firstoftwo"
+              },
+              {
+                  "content": "\\secondoftwo",
+                  "name": "secondoftwo",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "secondoftwo"
+              },
+              {
+                  "content": "\\relax",
+                  "name": "relax",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "relax"
+              },
+              {
+                  "content": "\\expandafter",
+                  "name": "expandafter",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "expandafter"
+              },
+              {
+                  "content": "\\noexpand",
+                  "name": "noexpand",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "noexpand"
+              },
+              {
+                  "content": "\\sum",
+                  "name": "sum",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sum"
+              },
+              {
+                  "content": "\\prod",
+                  "name": "prod",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "prod"
+              },
+              {
+                  "content": "\\bigotimes",
+                  "name": "bigotimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigotimes"
+              },
+              {
+                  "content": "\\bigvee",
+                  "name": "bigvee",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigvee"
+              },
+              {
+                  "content": "\\int",
+                  "name": "int",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "int"
+              },
+              {
+                  "content": "\\coprod",
+                  "name": "coprod",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "coprod"
+              },
+              {
+                  "content": "\\bigoplus",
+                  "name": "bigoplus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigoplus"
+              },
+              {
+                  "content": "\\bigwedge",
+                  "name": "bigwedge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigwedge"
+              },
+              {
+                  "content": "\\iint",
+                  "name": "iint",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "iint"
+              },
+              {
+                  "content": "\\intop",
+                  "name": "intop",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "intop"
+              },
+              {
+                  "content": "\\bigodot",
+                  "name": "bigodot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigodot"
+              },
+              {
+                  "content": "\\bigcap",
+                  "name": "bigcap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigcap"
+              },
+              {
+                  "content": "\\iiint",
+                  "name": "iiint",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "iiint"
+              },
+              {
+                  "content": "\\smallint",
+                  "name": "smallint",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "smallint"
+              },
+              {
+                  "content": "\\biguplus",
+                  "name": "biguplus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "biguplus"
+              },
+              {
+                  "content": "\\bigcup",
+                  "name": "bigcup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigcup"
+              },
+              {
+                  "content": "\\oint",
+                  "name": "oint",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "oint"
+              },
+              {
+                  "content": "\\oiint",
+                  "name": "oiint",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "oiint"
+              },
+              {
+                  "content": "\\oiiint",
+                  "name": "oiiint",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "oiiint"
+              },
+              {
+                  "content": "\\bigsqcup",
+                  "name": "bigsqcup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigsqcup"
+              },
+              {
+                  "content": "\\cdot",
+                  "name": "cdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cdot"
+              },
+              {
+                  "content": "\\gtrdot",
+                  "name": "gtrdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gtrdot"
+              },
+              {
+                  "content": "\\pmod",
+                  "name": "pmod",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "pmod"
+              },
+              {
+                  "content": "\\cdotp",
+                  "name": "cdotp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cdotp"
+              },
+              {
+                  "content": "\\intercal",
+                  "name": "intercal",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "intercal"
+              },
+              {
+                  "content": "\\pod",
+                  "name": "pod",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "pod"
+              },
+              {
+                  "content": "\\centerdot",
+                  "name": "centerdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "centerdot"
+              },
+              {
+                  "content": "\\rhd",
+                  "name": "rhd",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rhd"
+              },
+              {
+                  "content": "\\circ",
+                  "name": "circ",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circ"
+              },
+              {
+                  "content": "\\leftthreetimes",
+                  "name": "leftthreetimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftthreetimes"
+              },
+              {
+                  "content": "\\rightthreetimes",
+                  "name": "rightthreetimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightthreetimes"
+              },
+              {
+                  "content": "\\amalg",
+                  "name": "amalg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "amalg"
+              },
+              {
+                  "content": "\\circledast",
+                  "name": "circledast",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circledast"
+              },
+              {
+                  "content": "\\ldotp",
+                  "name": "ldotp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ldotp"
+              },
+              {
+                  "content": "\\rtimes",
+                  "name": "rtimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rtimes"
+              },
+              {
+                  "content": "\\And",
+                  "name": "And",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "And"
+              },
+              {
+                  "content": "\\circledcirc",
+                  "name": "circledcirc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circledcirc"
+              },
+              {
+                  "content": "\\setminus",
+                  "name": "setminus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "setminus"
+              },
+              {
+                  "content": "\\ast",
+                  "name": "ast",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ast"
+              },
+              {
+                  "content": "\\circleddash",
+                  "name": "circleddash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circleddash"
+              },
+              {
+                  "content": "\\lessdot",
+                  "name": "lessdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lessdot"
+              },
+              {
+                  "content": "\\smallsetminus",
+                  "name": "smallsetminus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "smallsetminus"
+              },
+              {
+                  "content": "\\barwedge",
+                  "name": "barwedge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "barwedge"
+              },
+              {
+                  "content": "\\Cup",
+                  "name": "Cup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Cup"
+              },
+              {
+                  "content": "\\lhd",
+                  "name": "lhd",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lhd"
+              },
+              {
+                  "content": "\\sqcap",
+                  "name": "sqcap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqcap"
+              },
+              {
+                  "content": "\\bigcirc",
+                  "name": "bigcirc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigcirc"
+              },
+              {
+                  "content": "\\cup",
+                  "name": "cup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cup"
+              },
+              {
+                  "content": "\\ltimes",
+                  "name": "ltimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ltimes"
+              },
+              {
+                  "content": "\\sqcup",
+                  "name": "sqcup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqcup"
+              },
+              {
+                  "content": "\\bmod",
+                  "name": "bmod",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bmod"
+              },
+              {
+                  "content": "\\curlyvee",
+                  "name": "curlyvee",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "curlyvee"
+              },
+              {
+                  "content": "\\times",
+                  "name": "times",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "times"
+              },
+              {
+                  "content": "\\boxdot",
+                  "name": "boxdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "boxdot"
+              },
+              {
+                  "content": "\\curlywedge",
+                  "name": "curlywedge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "curlywedge"
+              },
+              {
+                  "content": "\\mp",
+                  "name": "mp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mp"
+              },
+              {
+                  "content": "\\unlhd",
+                  "name": "unlhd",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "unlhd"
+              },
+              {
+                  "content": "\\boxminus",
+                  "name": "boxminus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "boxminus"
+              },
+              {
+                  "content": "\\div",
+                  "name": "div",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "div"
+              },
+              {
+                  "content": "\\odot",
+                  "name": "odot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "odot"
+              },
+              {
+                  "content": "\\unrhd",
+                  "name": "unrhd",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "unrhd"
+              },
+              {
+                  "content": "\\boxplus",
+                  "name": "boxplus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "boxplus"
+              },
+              {
+                  "content": "\\divideontimes",
+                  "name": "divideontimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "divideontimes"
+              },
+              {
+                  "content": "\\ominus",
+                  "name": "ominus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ominus"
+              },
+              {
+                  "content": "\\uplus",
+                  "name": "uplus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "uplus"
+              },
+              {
+                  "content": "\\boxtimes",
+                  "name": "boxtimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "boxtimes"
+              },
+              {
+                  "content": "\\dotplus",
+                  "name": "dotplus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dotplus"
+              },
+              {
+                  "content": "\\oplus",
+                  "name": "oplus",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "oplus"
+              },
+              {
+                  "content": "\\vee",
+                  "name": "vee",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vee"
+              },
+              {
+                  "content": "\\bullet",
+                  "name": "bullet",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bullet"
+              },
+              {
+                  "content": "\\doublebarwedge",
+                  "name": "doublebarwedge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "doublebarwedge"
+              },
+              {
+                  "content": "\\otimes",
+                  "name": "otimes",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "otimes"
+              },
+              {
+                  "content": "\\veebar",
+                  "name": "veebar",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "veebar"
+              },
+              {
+                  "content": "\\Cap",
+                  "name": "Cap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Cap"
+              },
+              {
+                  "content": "\\doublecap",
+                  "name": "doublecap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "doublecap"
+              },
+              {
+                  "content": "\\oslash",
+                  "name": "oslash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "oslash"
+              },
+              {
+                  "content": "\\wedge",
+                  "name": "wedge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "wedge"
+              },
+              {
+                  "content": "\\cap",
+                  "name": "cap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cap"
+              },
+              {
+                  "content": "\\doublecup",
+                  "name": "doublecup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "doublecup"
+              },
+              {
+                  "content": "\\pm",
+                  "name": "pm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "pm"
+              },
+              {
+                  "content": "\\plusmn",
+                  "name": "plusmn",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "plusmn"
+              },
+              {
+                  "content": "\\wr",
+                  "name": "wr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "wr"
+              },
+              {
+                  "content": "\\choose",
+                  "name": "choose",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "choose"
+              },
+              {
+                  "content": "\\over",
+                  "name": "over",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "over"
+              },
+              {
+                  "content": "\\above",
+                  "name": "above",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "above"
+              },
+              {
+                  "content": "\\arcsin",
+                  "name": "arcsin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "arcsin"
+              },
+              {
+                  "content": "\\cotg",
+                  "name": "cotg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cotg"
+              },
+              {
+                  "content": "\\ln",
+                  "name": "ln",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ln"
+              },
+              {
+                  "content": "\\det",
+                  "name": "det",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "det"
+              },
+              {
+                  "content": "\\arccos",
+                  "name": "arccos",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "arccos"
+              },
+              {
+                  "content": "\\coth",
+                  "name": "coth",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "coth"
+              },
+              {
+                  "content": "\\log",
+                  "name": "log",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "log"
+              },
+              {
+                  "content": "\\gcd",
+                  "name": "gcd",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gcd"
+              },
+              {
+                  "content": "\\arctan",
+                  "name": "arctan",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "arctan"
+              },
+              {
+                  "content": "\\csc",
+                  "name": "csc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "csc"
+              },
+              {
+                  "content": "\\sec",
+                  "name": "sec",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sec"
+              },
+              {
+                  "content": "\\inf",
+                  "name": "inf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "inf"
+              },
+              {
+                  "content": "\\arctg",
+                  "name": "arctg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "arctg"
+              },
+              {
+                  "content": "\\ctg",
+                  "name": "ctg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ctg"
+              },
+              {
+                  "content": "\\sin",
+                  "name": "sin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sin"
+              },
+              {
+                  "content": "\\lim",
+                  "name": "lim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lim"
+              },
+              {
+                  "content": "\\arcctg",
+                  "name": "arcctg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "arcctg"
+              },
+              {
+                  "content": "\\cth",
+                  "name": "cth",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cth"
+              },
+              {
+                  "content": "\\sinh",
+                  "name": "sinh",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sinh"
+              },
+              {
+                  "content": "\\liminf",
+                  "name": "liminf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "liminf"
+              },
+              {
+                  "content": "\\arg",
+                  "name": "arg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "arg"
+              },
+              {
+                  "content": "\\deg",
+                  "name": "deg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "deg"
+              },
+              {
+                  "content": "\\sh",
+                  "name": "sh",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sh"
+              },
+              {
+                  "content": "\\limsup",
+                  "name": "limsup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "limsup"
+              },
+              {
+                  "content": "\\ch",
+                  "name": "ch",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ch"
+              },
+              {
+                  "content": "\\dim",
+                  "name": "dim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dim"
+              },
+              {
+                  "content": "\\tan",
+                  "name": "tan",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tan"
+              },
+              {
+                  "content": "\\max",
+                  "name": "max",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "max"
+              },
+              {
+                  "content": "\\cos",
+                  "name": "cos",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cos"
+              },
+              {
+                  "content": "\\exp",
+                  "name": "exp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "exp"
+              },
+              {
+                  "content": "\\tanh",
+                  "name": "tanh",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tanh"
+              },
+              {
+                  "content": "\\min",
+                  "name": "min",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "min"
+              },
+              {
+                  "content": "\\cosec",
+                  "name": "cosec",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cosec"
+              },
+              {
+                  "content": "\\hom",
+                  "name": "hom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hom"
+              },
+              {
+                  "content": "\\tg",
+                  "name": "tg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tg"
+              },
+              {
+                  "content": "\\Pr",
+                  "name": "Pr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Pr"
+              },
+              {
+                  "content": "\\cosh",
+                  "name": "cosh",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cosh"
+              },
+              {
+                  "content": "\\ker",
+                  "name": "ker",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ker"
+              },
+              {
+                  "content": "\\th",
+                  "name": "th",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "th"
+              },
+              {
+                  "content": "\\sup",
+                  "name": "sup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sup"
+              },
+              {
+                  "content": "\\cot",
+                  "name": "cot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cot"
+              },
+              {
+                  "content": "\\lg",
+                  "name": "lg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lg"
+              },
+              {
+                  "content": "\\argmax",
+                  "name": "argmax",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "argmax"
+              },
+              {
+                  "content": "\\argmin",
+                  "name": "argmin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "argmin"
+              },
+              {
+                  "content": "\\limits",
+                  "name": "limits",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "limits"
+              },
+              {
+                  "content": "\\eqcirc",
+                  "name": "eqcirc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eqcirc"
+              },
+              {
+                  "content": "\\lesseqgtr",
+                  "name": "lesseqgtr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lesseqgtr"
+              },
+              {
+                  "content": "\\sqsupset",
+                  "name": "sqsupset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqsupset"
+              },
+              {
+                  "content": "\\eqcolon",
+                  "name": "eqcolon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eqcolon"
+              },
+              {
+                  "content": "\\lesseqqgtr",
+                  "name": "lesseqqgtr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lesseqqgtr"
+              },
+              {
+                  "content": "\\sqsupseteq",
+                  "name": "sqsupseteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqsupseteq"
+              },
+              {
+                  "content": "\\Eqcolon",
+                  "name": "Eqcolon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Eqcolon"
+              },
+              {
+                  "content": "\\lessgtr",
+                  "name": "lessgtr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lessgtr"
+              },
+              {
+                  "content": "\\Subset",
+                  "name": "Subset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Subset"
+              },
+              {
+                  "content": "\\eqqcolon",
+                  "name": "eqqcolon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eqqcolon"
+              },
+              {
+                  "content": "\\lesssim",
+                  "name": "lesssim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lesssim"
+              },
+              {
+                  "content": "\\approx",
+                  "name": "approx",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "approx"
+              },
+              {
+                  "content": "\\Eqqcolon",
+                  "name": "Eqqcolon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Eqqcolon"
+              },
+              {
+                  "content": "\\ll",
+                  "name": "ll",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ll"
+              },
+              {
+                  "content": "\\subseteq",
+                  "name": "subseteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "subseteq"
+              },
+              {
+                  "content": "\\sube",
+                  "name": "sube",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sube"
+              },
+              {
+                  "content": "\\approxeq",
+                  "name": "approxeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "approxeq"
+              },
+              {
+                  "content": "\\eqsim",
+                  "name": "eqsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eqsim"
+              },
+              {
+                  "content": "\\lll",
+                  "name": "lll",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lll"
+              },
+              {
+                  "content": "\\subseteqq",
+                  "name": "subseteqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "subseteqq"
+              },
+              {
+                  "content": "\\asymp",
+                  "name": "asymp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "asymp"
+              },
+              {
+                  "content": "\\eqslantgtr",
+                  "name": "eqslantgtr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eqslantgtr"
+              },
+              {
+                  "content": "\\llless",
+                  "name": "llless",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "llless"
+              },
+              {
+                  "content": "\\succ",
+                  "name": "succ",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succ"
+              },
+              {
+                  "content": "\\backepsilon",
+                  "name": "backepsilon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "backepsilon"
+              },
+              {
+                  "content": "\\eqslantless",
+                  "name": "eqslantless",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "eqslantless"
+              },
+              {
+                  "content": "\\succapprox",
+                  "name": "succapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succapprox"
+              },
+              {
+                  "content": "\\backsim",
+                  "name": "backsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "backsim"
+              },
+              {
+                  "content": "\\equiv",
+                  "name": "equiv",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "equiv"
+              },
+              {
+                  "content": "\\succcurlyeq",
+                  "name": "succcurlyeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succcurlyeq"
+              },
+              {
+                  "content": "\\backsimeq",
+                  "name": "backsimeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "backsimeq"
+              },
+              {
+                  "content": "\\fallingdotseq",
+                  "name": "fallingdotseq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "fallingdotseq"
+              },
+              {
+                  "content": "\\models",
+                  "name": "models",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "models"
+              },
+              {
+                  "content": "\\succeq",
+                  "name": "succeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succeq"
+              },
+              {
+                  "content": "\\between",
+                  "name": "between",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "between"
+              },
+              {
+                  "content": "\\frown",
+                  "name": "frown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "frown"
+              },
+              {
+                  "content": "\\multimap",
+                  "name": "multimap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "multimap"
+              },
+              {
+                  "content": "\\succsim",
+                  "name": "succsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succsim"
+              },
+              {
+                  "content": "\\bowtie",
+                  "name": "bowtie",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bowtie"
+              },
+              {
+                  "content": "\\ge",
+                  "name": "ge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ge"
+              },
+              {
+                  "content": "\\owns",
+                  "name": "owns",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "owns"
+              },
+              {
+                  "content": "\\Supset",
+                  "name": "Supset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Supset"
+              },
+              {
+                  "content": "\\bumpeq",
+                  "name": "bumpeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bumpeq"
+              },
+              {
+                  "content": "\\geq",
+                  "name": "geq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "geq"
+              },
+              {
+                  "content": "\\parallel",
+                  "name": "parallel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "parallel"
+              },
+              {
+                  "content": "\\Bumpeq",
+                  "name": "Bumpeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bumpeq"
+              },
+              {
+                  "content": "\\geqq",
+                  "name": "geqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "geqq"
+              },
+              {
+                  "content": "\\perp",
+                  "name": "perp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "perp"
+              },
+              {
+                  "content": "\\supseteq",
+                  "name": "supseteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "supseteq"
+              },
+              {
+                  "content": "\\circeq",
+                  "name": "circeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circeq"
+              },
+              {
+                  "content": "\\geqslant",
+                  "name": "geqslant",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "geqslant"
+              },
+              {
+                  "content": "\\pitchfork",
+                  "name": "pitchfork",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "pitchfork"
+              },
+              {
+                  "content": "\\supseteqq",
+                  "name": "supseteqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "supseteqq"
+              },
+              {
+                  "content": "\\colonapprox",
+                  "name": "colonapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "colonapprox"
+              },
+              {
+                  "content": "\\gg",
+                  "name": "gg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gg"
+              },
+              {
+                  "content": "\\prec",
+                  "name": "prec",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "prec"
+              },
+              {
+                  "content": "\\thickapprox",
+                  "name": "thickapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "thickapprox"
+              },
+              {
+                  "content": "\\Colonapprox",
+                  "name": "Colonapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Colonapprox"
+              },
+              {
+                  "content": "\\ggg",
+                  "name": "ggg",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ggg"
+              },
+              {
+                  "content": "\\precapprox",
+                  "name": "precapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "precapprox"
+              },
+              {
+                  "content": "\\thicksim",
+                  "name": "thicksim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "thicksim"
+              },
+              {
+                  "content": "\\coloneq",
+                  "name": "coloneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "coloneq"
+              },
+              {
+                  "content": "\\gggtr",
+                  "name": "gggtr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gggtr"
+              },
+              {
+                  "content": "\\preccurlyeq",
+                  "name": "preccurlyeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "preccurlyeq"
+              },
+              {
+                  "content": "\\trianglelefteq",
+                  "name": "trianglelefteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "trianglelefteq"
+              },
+              {
+                  "content": "\\Coloneq",
+                  "name": "Coloneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Coloneq"
+              },
+              {
+                  "content": "\\preceq",
+                  "name": "preceq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "preceq"
+              },
+              {
+                  "content": "\\triangleq",
+                  "name": "triangleq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "triangleq"
+              },
+              {
+                  "content": "\\coloneqq",
+                  "name": "coloneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "coloneqq"
+              },
+              {
+                  "content": "\\gtrapprox",
+                  "name": "gtrapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gtrapprox"
+              },
+              {
+                  "content": "\\precsim",
+                  "name": "precsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "precsim"
+              },
+              {
+                  "content": "\\trianglerighteq",
+                  "name": "trianglerighteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "trianglerighteq"
+              },
+              {
+                  "content": "\\Coloneqq",
+                  "name": "Coloneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Coloneqq"
+              },
+              {
+                  "content": "\\gtreqless",
+                  "name": "gtreqless",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gtreqless"
+              },
+              {
+                  "content": "\\propto",
+                  "name": "propto",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "propto"
+              },
+              {
+                  "content": "\\varpropto",
+                  "name": "varpropto",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varpropto"
+              },
+              {
+                  "content": "\\colonsim",
+                  "name": "colonsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "colonsim"
+              },
+              {
+                  "content": "\\gtreqqless",
+                  "name": "gtreqqless",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gtreqqless"
+              },
+              {
+                  "content": "\\risingdotseq",
+                  "name": "risingdotseq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "risingdotseq"
+              },
+              {
+                  "content": "\\vartriangle",
+                  "name": "vartriangle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vartriangle"
+              },
+              {
+                  "content": "\\Colonsim",
+                  "name": "Colonsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Colonsim"
+              },
+              {
+                  "content": "\\gtrless",
+                  "name": "gtrless",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gtrless"
+              },
+              {
+                  "content": "\\shortmid",
+                  "name": "shortmid",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "shortmid"
+              },
+              {
+                  "content": "\\vartriangleleft",
+                  "name": "vartriangleleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vartriangleleft"
+              },
+              {
+                  "content": "\\cong",
+                  "name": "cong",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cong"
+              },
+              {
+                  "content": "\\gtrsim",
+                  "name": "gtrsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gtrsim"
+              },
+              {
+                  "content": "\\shortparallel",
+                  "name": "shortparallel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "shortparallel"
+              },
+              {
+                  "content": "\\vartriangleright",
+                  "name": "vartriangleright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vartriangleright"
+              },
+              {
+                  "content": "\\curlyeqprec",
+                  "name": "curlyeqprec",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "curlyeqprec"
+              },
+              {
+                  "content": "\\sim",
+                  "name": "sim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sim"
+              },
+              {
+                  "content": "\\vcentcolon",
+                  "name": "vcentcolon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vcentcolon"
+              },
+              {
+                  "content": "\\curlyeqsucc",
+                  "name": "curlyeqsucc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "curlyeqsucc"
+              },
+              {
+                  "content": "\\Join",
+                  "name": "Join",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Join"
+              },
+              {
+                  "content": "\\simeq",
+                  "name": "simeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "simeq"
+              },
+              {
+                  "content": "\\vdash",
+                  "name": "vdash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vdash"
+              },
+              {
+                  "content": "\\dashv",
+                  "name": "dashv",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dashv"
+              },
+              {
+                  "content": "\\le",
+                  "name": "le",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "le"
+              },
+              {
+                  "content": "\\smallfrown",
+                  "name": "smallfrown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "smallfrown"
+              },
+              {
+                  "content": "\\vDash",
+                  "name": "vDash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vDash"
+              },
+              {
+                  "content": "\\dblcolon",
+                  "name": "dblcolon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dblcolon"
+              },
+              {
+                  "content": "\\leq",
+                  "name": "leq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leq"
+              },
+              {
+                  "content": "\\smallsmile",
+                  "name": "smallsmile",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "smallsmile"
+              },
+              {
+                  "content": "\\Vdash",
+                  "name": "Vdash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Vdash"
+              },
+              {
+                  "content": "\\doteq",
+                  "name": "doteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "doteq"
+              },
+              {
+                  "content": "\\leqq",
+                  "name": "leqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leqq"
+              },
+              {
+                  "content": "\\smile",
+                  "name": "smile",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "smile"
+              },
+              {
+                  "content": "\\Vvdash",
+                  "name": "Vvdash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Vvdash"
+              },
+              {
+                  "content": "\\Doteq",
+                  "name": "Doteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Doteq"
+              },
+              {
+                  "content": "\\leqslant",
+                  "name": "leqslant",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leqslant"
+              },
+              {
+                  "content": "\\sqsubset",
+                  "name": "sqsubset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqsubset"
+              },
+              {
+                  "content": "\\doteqdot",
+                  "name": "doteqdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "doteqdot"
+              },
+              {
+                  "content": "\\lessapprox",
+                  "name": "lessapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lessapprox"
+              },
+              {
+                  "content": "\\sqsubseteq",
+                  "name": "sqsubseteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqsubseteq"
+              },
+              {
+                  "content": "\\gnapprox",
+                  "name": "gnapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gnapprox"
+              },
+              {
+                  "content": "\\ngeqslant",
+                  "name": "ngeqslant",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ngeqslant"
+              },
+              {
+                  "content": "\\nsubseteq",
+                  "name": "nsubseteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsubseteq"
+              },
+              {
+                  "content": "\\precneqq",
+                  "name": "precneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "precneqq"
+              },
+              {
+                  "content": "\\gneq",
+                  "name": "gneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gneq"
+              },
+              {
+                  "content": "\\ngtr",
+                  "name": "ngtr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ngtr"
+              },
+              {
+                  "content": "\\nsubseteqq",
+                  "name": "nsubseteqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsubseteqq"
+              },
+              {
+                  "content": "\\precnsim",
+                  "name": "precnsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "precnsim"
+              },
+              {
+                  "content": "\\gneqq",
+                  "name": "gneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gneqq"
+              },
+              {
+                  "content": "\\nleq",
+                  "name": "nleq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nleq"
+              },
+              {
+                  "content": "\\nsucc",
+                  "name": "nsucc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsucc"
+              },
+              {
+                  "content": "\\subsetneq",
+                  "name": "subsetneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "subsetneq"
+              },
+              {
+                  "content": "\\gnsim",
+                  "name": "gnsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gnsim"
+              },
+              {
+                  "content": "\\nleqq",
+                  "name": "nleqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nleqq"
+              },
+              {
+                  "content": "\\nsucceq",
+                  "name": "nsucceq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsucceq"
+              },
+              {
+                  "content": "\\subsetneqq",
+                  "name": "subsetneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "subsetneqq"
+              },
+              {
+                  "content": "\\gvertneqq",
+                  "name": "gvertneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "gvertneqq"
+              },
+              {
+                  "content": "\\nleqslant",
+                  "name": "nleqslant",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nleqslant"
+              },
+              {
+                  "content": "\\nsupseteq",
+                  "name": "nsupseteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsupseteq"
+              },
+              {
+                  "content": "\\succnapprox",
+                  "name": "succnapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succnapprox"
+              },
+              {
+                  "content": "\\lnapprox",
+                  "name": "lnapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lnapprox"
+              },
+              {
+                  "content": "\\nless",
+                  "name": "nless",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nless"
+              },
+              {
+                  "content": "\\nsupseteqq",
+                  "name": "nsupseteqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsupseteqq"
+              },
+              {
+                  "content": "\\succneqq",
+                  "name": "succneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succneqq"
+              },
+              {
+                  "content": "\\lneq",
+                  "name": "lneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lneq"
+              },
+              {
+                  "content": "\\nmid",
+                  "name": "nmid",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nmid"
+              },
+              {
+                  "content": "\\ntriangleleft",
+                  "name": "ntriangleleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ntriangleleft"
+              },
+              {
+                  "content": "\\succnsim",
+                  "name": "succnsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "succnsim"
+              },
+              {
+                  "content": "\\lneqq",
+                  "name": "lneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lneqq"
+              },
+              {
+                  "content": "\\ntrianglelefteq",
+                  "name": "ntrianglelefteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ntrianglelefteq"
+              },
+              {
+                  "content": "\\supsetneq",
+                  "name": "supsetneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "supsetneq"
+              },
+              {
+                  "content": "\\lnsim",
+                  "name": "lnsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lnsim"
+              },
+              {
+                  "content": "\\ntriangleright",
+                  "name": "ntriangleright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ntriangleright"
+              },
+              {
+                  "content": "\\supsetneqq",
+                  "name": "supsetneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "supsetneqq"
+              },
+              {
+                  "content": "\\lvertneqq",
+                  "name": "lvertneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lvertneqq"
+              },
+              {
+                  "content": "\\nparallel",
+                  "name": "nparallel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nparallel"
+              },
+              {
+                  "content": "\\ntrianglerighteq",
+                  "name": "ntrianglerighteq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ntrianglerighteq"
+              },
+              {
+                  "content": "\\varsubsetneq",
+                  "name": "varsubsetneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varsubsetneq"
+              },
+              {
+                  "content": "\\ncong",
+                  "name": "ncong",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ncong"
+              },
+              {
+                  "content": "\\nprec",
+                  "name": "nprec",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nprec"
+              },
+              {
+                  "content": "\\nvdash",
+                  "name": "nvdash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nvdash"
+              },
+              {
+                  "content": "\\varsubsetneqq",
+                  "name": "varsubsetneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varsubsetneqq"
+              },
+              {
+                  "content": "\\ne",
+                  "name": "ne",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ne"
+              },
+              {
+                  "content": "\\npreceq",
+                  "name": "npreceq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "npreceq"
+              },
+              {
+                  "content": "\\nvDash",
+                  "name": "nvDash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nvDash"
+              },
+              {
+                  "content": "\\varsupsetneq",
+                  "name": "varsupsetneq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varsupsetneq"
+              },
+              {
+                  "content": "\\neq",
+                  "name": "neq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "neq"
+              },
+              {
+                  "content": "\\nshortmid",
+                  "name": "nshortmid",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nshortmid"
+              },
+              {
+                  "content": "\\nVDash",
+                  "name": "nVDash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nVDash"
+              },
+              {
+                  "content": "\\varsupsetneqq",
+                  "name": "varsupsetneqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "varsupsetneqq"
+              },
+              {
+                  "content": "\\ngeq",
+                  "name": "ngeq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ngeq"
+              },
+              {
+                  "content": "\\nshortparallel",
+                  "name": "nshortparallel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nshortparallel"
+              },
+              {
+                  "content": "\\nVdash",
+                  "name": "nVdash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nVdash"
+              },
+              {
+                  "content": "\\ngeqq",
+                  "name": "ngeqq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ngeqq"
+              },
+              {
+                  "content": "\\nsim",
+                  "name": "nsim",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nsim"
+              },
+              {
+                  "content": "\\precnapprox",
+                  "name": "precnapprox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "precnapprox"
+              },
+              {
+                  "content": "\\circlearrowleft",
+                  "name": "circlearrowleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circlearrowleft"
+              },
+              {
+                  "content": "\\leftharpoonup",
+                  "name": "leftharpoonup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftharpoonup"
+              },
+              {
+                  "content": "\\rArr",
+                  "name": "rArr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rArr"
+              },
+              {
+                  "content": "\\circlearrowright",
+                  "name": "circlearrowright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circlearrowright"
+              },
+              {
+                  "content": "\\leftleftarrows",
+                  "name": "leftleftarrows",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftleftarrows"
+              },
+              {
+                  "content": "\\rarr",
+                  "name": "rarr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rarr"
+              },
+              {
+                  "content": "\\curvearrowleft",
+                  "name": "curvearrowleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "curvearrowleft"
+              },
+              {
+                  "content": "\\restriction",
+                  "name": "restriction",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "restriction"
+              },
+              {
+                  "content": "\\curvearrowright",
+                  "name": "curvearrowright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "curvearrowright"
+              },
+              {
+                  "content": "\\Leftrightarrow",
+                  "name": "Leftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Leftrightarrow"
+              },
+              {
+                  "content": "\\rightarrow",
+                  "name": "rightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightarrow"
+              },
+              {
+                  "content": "\\Darr",
+                  "name": "Darr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Darr"
+              },
+              {
+                  "content": "\\leftrightarrows",
+                  "name": "leftrightarrows",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftrightarrows"
+              },
+              {
+                  "content": "\\Rightarrow",
+                  "name": "Rightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Rightarrow"
+              },
+              {
+                  "content": "\\dArr",
+                  "name": "dArr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dArr"
+              },
+              {
+                  "content": "\\leftrightharpoons",
+                  "name": "leftrightharpoons",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftrightharpoons"
+              },
+              {
+                  "content": "\\rightarrowtail",
+                  "name": "rightarrowtail",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightarrowtail"
+              },
+              {
+                  "content": "\\darr",
+                  "name": "darr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "darr"
+              },
+              {
+                  "content": "\\leftrightsquigarrow",
+                  "name": "leftrightsquigarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftrightsquigarrow"
+              },
+              {
+                  "content": "\\rightharpoondown",
+                  "name": "rightharpoondown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightharpoondown"
+              },
+              {
+                  "content": "\\dashleftarrow",
+                  "name": "dashleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dashleftarrow"
+              },
+              {
+                  "content": "\\Lleftarrow",
+                  "name": "Lleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Lleftarrow"
+              },
+              {
+                  "content": "\\rightharpoonup",
+                  "name": "rightharpoonup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightharpoonup"
+              },
+              {
+                  "content": "\\dashrightarrow",
+                  "name": "dashrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dashrightarrow"
+              },
+              {
+                  "content": "\\longleftarrow",
+                  "name": "longleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "longleftarrow"
+              },
+              {
+                  "content": "\\rightleftarrows",
+                  "name": "rightleftarrows",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightleftarrows"
+              },
+              {
+                  "content": "\\Longleftarrow",
+                  "name": "Longleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Longleftarrow"
+              },
+              {
+                  "content": "\\rightleftharpoons",
+                  "name": "rightleftharpoons",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightleftharpoons"
+              },
+              {
+                  "content": "\\longleftrightarrow",
+                  "name": "longleftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "longleftrightarrow"
+              },
+              {
+                  "content": "\\rightrightarrows",
+                  "name": "rightrightarrows",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightrightarrows"
+              },
+              {
+                  "content": "\\downdownarrows",
+                  "name": "downdownarrows",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "downdownarrows"
+              },
+              {
+                  "content": "\\Longleftrightarrow",
+                  "name": "Longleftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Longleftrightarrow"
+              },
+              {
+                  "content": "\\rightsquigarrow",
+                  "name": "rightsquigarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rightsquigarrow"
+              },
+              {
+                  "content": "\\downharpoonleft",
+                  "name": "downharpoonleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "downharpoonleft"
+              },
+              {
+                  "content": "\\longmapsto",
+                  "name": "longmapsto",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "longmapsto"
+              },
+              {
+                  "content": "\\Rrightarrow",
+                  "name": "Rrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Rrightarrow"
+              },
+              {
+                  "content": "\\downharpoonright",
+                  "name": "downharpoonright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "downharpoonright"
+              },
+              {
+                  "content": "\\longrightarrow",
+                  "name": "longrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "longrightarrow"
+              },
+              {
+                  "content": "\\Rsh",
+                  "name": "Rsh",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Rsh"
+              },
+              {
+                  "content": "\\Longrightarrow",
+                  "name": "Longrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Longrightarrow"
+              },
+              {
+                  "content": "\\searrow",
+                  "name": "searrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "searrow"
+              },
+              {
+                  "content": "\\Harr",
+                  "name": "Harr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Harr"
+              },
+              {
+                  "content": "\\looparrowleft",
+                  "name": "looparrowleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "looparrowleft"
+              },
+              {
+                  "content": "\\swarrow",
+                  "name": "swarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "swarrow"
+              },
+              {
+                  "content": "\\hArr",
+                  "name": "hArr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hArr"
+              },
+              {
+                  "content": "\\looparrowright",
+                  "name": "looparrowright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "looparrowright"
+              },
+              {
+                  "content": "\\harr",
+                  "name": "harr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "harr"
+              },
+              {
+                  "content": "\\Lrarr",
+                  "name": "Lrarr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Lrarr"
+              },
+              {
+                  "content": "\\twoheadleftarrow",
+                  "name": "twoheadleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "twoheadleftarrow"
+              },
+              {
+                  "content": "\\hookleftarrow",
+                  "name": "hookleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hookleftarrow"
+              },
+              {
+                  "content": "\\lrArr",
+                  "name": "lrArr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lrArr"
+              },
+              {
+                  "content": "\\twoheadrightarrow",
+                  "name": "twoheadrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "twoheadrightarrow"
+              },
+              {
+                  "content": "\\hookrightarrow",
+                  "name": "hookrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hookrightarrow"
+              },
+              {
+                  "content": "\\lrarr",
+                  "name": "lrarr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lrarr"
+              },
+              {
+                  "content": "\\Uarr",
+                  "name": "Uarr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Uarr"
+              },
+              {
+                  "content": "\\Lsh",
+                  "name": "Lsh",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Lsh"
+              },
+              {
+                  "content": "\\uArr",
+                  "name": "uArr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "uArr"
+              },
+              {
+                  "content": "\\uarr",
+                  "name": "uarr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "uarr"
+              },
+              {
+                  "content": "\\nearrow",
+                  "name": "nearrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nearrow"
+              },
+              {
+                  "content": "\\Larr",
+                  "name": "Larr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Larr"
+              },
+              {
+                  "content": "\\nleftarrow",
+                  "name": "nleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nleftarrow"
+              },
+              {
+                  "content": "\\lArr",
+                  "name": "lArr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lArr"
+              },
+              {
+                  "content": "\\nLeftarrow",
+                  "name": "nLeftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nLeftarrow"
+              },
+              {
+                  "content": "\\larr",
+                  "name": "larr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "larr"
+              },
+              {
+                  "content": "\\nleftrightarrow",
+                  "name": "nleftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nleftrightarrow"
+              },
+              {
+                  "content": "\\leadsto",
+                  "name": "leadsto",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leadsto"
+              },
+              {
+                  "content": "\\nLeftrightarrow",
+                  "name": "nLeftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nLeftrightarrow"
+              },
+              {
+                  "content": "\\upharpoonleft",
+                  "name": "upharpoonleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "upharpoonleft"
+              },
+              {
+                  "content": "\\leftarrow",
+                  "name": "leftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftarrow"
+              },
+              {
+                  "content": "\\nrightarrow",
+                  "name": "nrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nrightarrow"
+              },
+              {
+                  "content": "\\upharpoonright",
+                  "name": "upharpoonright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "upharpoonright"
+              },
+              {
+                  "content": "\\Leftarrow",
+                  "name": "Leftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Leftarrow"
+              },
+              {
+                  "content": "\\nRightarrow",
+                  "name": "nRightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nRightarrow"
+              },
+              {
+                  "content": "\\upuparrows",
+                  "name": "upuparrows",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "upuparrows"
+              },
+              {
+                  "content": "\\leftarrowtail",
+                  "name": "leftarrowtail",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftarrowtail"
+              },
+              {
+                  "content": "\\nwarrow",
+                  "name": "nwarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nwarrow"
+              },
+              {
+                  "content": "\\leftharpoondown",
+                  "name": "leftharpoondown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "leftharpoondown"
+              },
+              {
+                  "content": "\\Rarr",
+                  "name": "Rarr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Rarr"
+              },
+              {
+                  "content": "\\rm",
+                  "name": "rm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rm"
+              },
+              {
+                  "content": "\\bf",
+                  "name": "bf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bf"
+              },
+              {
+                  "content": "\\it",
+                  "name": "it",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "it"
+              },
+              {
+                  "content": "\\sf",
+                  "name": "sf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sf"
+              },
+              {
+                  "content": "\\tt",
+                  "name": "tt",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tt"
+              },
+              {
+                  "content": "\\Huge",
+                  "name": "Huge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Huge"
+              },
+              {
+                  "content": "\\huge",
+                  "name": "huge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "huge"
+              },
+              {
+                  "content": "\\LARGE",
+                  "name": "LARGE",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "LARGE"
+              },
+              {
+                  "content": "\\Large",
+                  "name": "Large",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Large"
+              },
+              {
+                  "content": "\\large",
+                  "name": "large",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "large"
+              },
+              {
+                  "content": "\\normalsize",
+                  "name": "normalsize",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "normalsize"
+              },
+              {
+                  "content": "\\small",
+                  "name": "small",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "small"
+              },
+              {
+                  "content": "\\footnotesize",
+                  "name": "footnotesize",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "footnotesize"
+              },
+              {
+                  "content": "\\scriptsize",
+                  "name": "scriptsize",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "scriptsize"
+              },
+              {
+                  "content": "\\tiny",
+                  "name": "tiny",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tiny"
+              },
+              {
+                  "content": "\\displaystyle",
+                  "name": "displaystyle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "displaystyle"
+              },
+              {
+                  "content": "\\textstyle",
+                  "name": "textstyle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textstyle"
+              },
+              {
+                  "content": "\\scriptstyle",
+                  "name": "scriptstyle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "scriptstyle"
+              },
+              {
+                  "content": "\\scriptscriptstyle",
+                  "name": "scriptscriptstyle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "scriptscriptstyle"
+              },
+              {
+                  "content": "\\nolimits",
+                  "name": "nolimits",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "nolimits"
+              },
+              {
+                  "content": "\\verb",
+                  "name": "verb",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "verb"
+              },
+              {
+                  "content": "\\cdots",
+                  "name": "cdots",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cdots"
+              },
+              {
+                  "content": "\\LaTeX",
+                  "name": "LaTeX",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "LaTeX"
+              },
+              {
+                  "content": "\\ddots",
+                  "name": "ddots",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ddots"
+              },
+              {
+                  "content": "\\TeX",
+                  "name": "TeX",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "TeX"
+              },
+              {
+                  "content": "\\ldots",
+                  "name": "ldots",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ldots"
+              },
+              {
+                  "content": "\\vdots",
+                  "name": "vdots",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vdots"
+              },
+              {
+                  "content": "\\infty",
+                  "name": "infty",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "infty"
+              },
+              {
+                  "content": "\\dotsb",
+                  "name": "dotsb",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dotsb"
+              },
+              {
+                  "content": "\\infin",
+                  "name": "infin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "infin"
+              },
+              {
+                  "content": "\\dotsc",
+                  "name": "dotsc",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dotsc"
+              },
+              {
+                  "content": "\\checkmark",
+                  "name": "checkmark",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "checkmark"
+              },
+              {
+                  "content": "\\dotsi",
+                  "name": "dotsi",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dotsi"
+              },
+              {
+                  "content": "\\dag",
+                  "name": "dag",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dag"
+              },
+              {
+                  "content": "\\dotsm",
+                  "name": "dotsm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dotsm"
+              },
+              {
+                  "content": "\\dagger",
+                  "name": "dagger",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dagger"
+              },
+              {
+                  "content": "\\dotso",
+                  "name": "dotso",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dotso"
+              },
+              {
+                  "content": "\\sdot",
+                  "name": "sdot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sdot"
+              },
+              {
+                  "content": "\\ddag",
+                  "name": "ddag",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ddag"
+              },
+              {
+                  "content": "\\mathellipsis",
+                  "name": "mathellipsis",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathellipsis"
+              },
+              {
+                  "content": "\\ddagger",
+                  "name": "ddagger",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ddagger"
+              },
+              {
+                  "content": "\\Box",
+                  "name": "Box",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Box"
+              },
+              {
+                  "content": "\\Dagger",
+                  "name": "Dagger",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Dagger"
+              },
+              {
+                  "content": "\\lq",
+                  "name": "lq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lq"
+              },
+              {
+                  "content": "\\square",
+                  "name": "square",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "square"
+              },
+              {
+                  "content": "\\angle",
+                  "name": "angle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "angle"
+              },
+              {
+                  "content": "\\blacksquare",
+                  "name": "blacksquare",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "blacksquare"
+              },
+              {
+                  "content": "\\measuredangle",
+                  "name": "measuredangle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "measuredangle"
+              },
+              {
+                  "content": "\\rq",
+                  "name": "rq",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rq"
+              },
+              {
+                  "content": "\\triangle",
+                  "name": "triangle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "triangle"
+              },
+              {
+                  "content": "\\sphericalangle",
+                  "name": "sphericalangle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sphericalangle"
+              },
+              {
+                  "content": "\\triangledown",
+                  "name": "triangledown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "triangledown"
+              },
+              {
+                  "content": "\\top",
+                  "name": "top",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "top"
+              },
+              {
+                  "content": "\\triangleleft",
+                  "name": "triangleleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "triangleleft"
+              },
+              {
+                  "content": "\\bot",
+                  "name": "bot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bot"
+              },
+              {
+                  "content": "\\triangleright",
+                  "name": "triangleright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "triangleright"
+              },
+              {
+                  "content": "\\colon",
+                  "name": "colon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "colon"
+              },
+              {
+                  "content": "\\bigtriangledown",
+                  "name": "bigtriangledown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigtriangledown"
+              },
+              {
+                  "content": "\\backprime",
+                  "name": "backprime",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "backprime"
+              },
+              {
+                  "content": "\\bigtriangleup",
+                  "name": "bigtriangleup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigtriangleup"
+              },
+              {
+                  "content": "\\pounds",
+                  "name": "pounds",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "pounds"
+              },
+              {
+                  "content": "\\prime",
+                  "name": "prime",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "prime"
+              },
+              {
+                  "content": "\\blacktriangle",
+                  "name": "blacktriangle",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "blacktriangle"
+              },
+              {
+                  "content": "\\mathsterling",
+                  "name": "mathsterling",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathsterling"
+              },
+              {
+                  "content": "\\blacktriangledown",
+                  "name": "blacktriangledown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "blacktriangledown"
+              },
+              {
+                  "content": "\\blacktriangleleft",
+                  "name": "blacktriangleleft",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "blacktriangleleft"
+              },
+              {
+                  "content": "\\yen",
+                  "name": "yen",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "yen"
+              },
+              {
+                  "content": "\\blacktriangleright",
+                  "name": "blacktriangleright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "blacktriangleright"
+              },
+              {
+                  "content": "\\surd",
+                  "name": "surd",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "surd"
+              },
+              {
+                  "content": "\\diamond",
+                  "name": "diamond",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "diamond"
+              },
+              {
+                  "content": "\\degree",
+                  "name": "degree",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "degree"
+              },
+              {
+                  "content": "\\Diamond",
+                  "name": "Diamond",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Diamond"
+              },
+              {
+                  "content": "\\lozenge",
+                  "name": "lozenge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "lozenge"
+              },
+              {
+                  "content": "\\mho",
+                  "name": "mho",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mho"
+              },
+              {
+                  "content": "\\blacklozenge",
+                  "name": "blacklozenge",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "blacklozenge"
+              },
+              {
+                  "content": "\\diagdown",
+                  "name": "diagdown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "diagdown"
+              },
+              {
+                  "content": "\\star",
+                  "name": "star",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "star"
+              },
+              {
+                  "content": "\\diagup",
+                  "name": "diagup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "diagup"
+              },
+              {
+                  "content": "\\bigstar",
+                  "name": "bigstar",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bigstar"
+              },
+              {
+                  "content": "\\flat",
+                  "name": "flat",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "flat"
+              },
+              {
+                  "content": "\\clubsuit",
+                  "name": "clubsuit",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "clubsuit"
+              },
+              {
+                  "content": "\\natural",
+                  "name": "natural",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "natural"
+              },
+              {
+                  "content": "\\copyright",
+                  "name": "copyright",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "copyright"
+              },
+              {
+                  "content": "\\clubs",
+                  "name": "clubs",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "clubs"
+              },
+              {
+                  "content": "\\sharp",
+                  "name": "sharp",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sharp"
+              },
+              {
+                  "content": "\\circledR",
+                  "name": "circledR",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circledR"
+              },
+              {
+                  "content": "\\diamondsuit",
+                  "name": "diamondsuit",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "diamondsuit"
+              },
+              {
+                  "content": "\\heartsuit",
+                  "name": "heartsuit",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "heartsuit"
+              },
+              {
+                  "content": "\\diamonds",
+                  "name": "diamonds",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "diamonds"
+              },
+              {
+                  "content": "\\hearts",
+                  "name": "hearts",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hearts"
+              },
+              {
+                  "content": "\\circledS",
+                  "name": "circledS",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "circledS"
+              },
+              {
+                  "content": "\\spadesuit",
+                  "name": "spadesuit",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "spadesuit"
+              },
+              {
+                  "content": "\\spades",
+                  "name": "spades",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "spades"
+              },
+              {
+                  "content": "\\maltese",
+                  "name": "maltese",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "maltese"
+              },
+              {
+                  "content": "\\minuso",
+                  "name": "minuso",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "minuso"
+              },
+              {
+                  "content": "\\message",
+                  "name": "message",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "message"
+              },
+              {
+                  "content": "\\errmessage",
+                  "name": "errmessage",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "errmessage"
+              },
+              {
+                  "content": "\\show",
+                  "name": "show",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "show"
+              }
+          ]
+      },
+      {
+          "name": "1",
+          "children": [
+              {
+                  "content": "\\tilde{$1}",
+                  "name": "tilde",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tilde"
+              },
+              {
+                  "content": "\\mathring{$1}",
+                  "name": "mathring",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathring"
+              },
+              {
+                  "content": "\\widetilde{$1}",
+                  "name": "widetilde",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "widetilde"
+              },
+              {
+                  "content": "\\overgroup{$1}",
+                  "name": "overgroup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overgroup"
+              },
+              {
+                  "content": "\\utilde{$1}",
+                  "name": "utilde",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "utilde"
+              },
+              {
+                  "content": "\\undergroup{$1}",
+                  "name": "undergroup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "undergroup"
+              },
+              {
+                  "content": "\\acute{$1}",
+                  "name": "acute",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "acute"
+              },
+              {
+                  "content": "\\vec{$1}",
+                  "name": "vec",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vec"
+              },
+              {
+                  "content": "\\Overrightarrow{$1}",
+                  "name": "Overrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Overrightarrow"
+              },
+              {
+                  "content": "\\bar{$1}",
+                  "name": "bar",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bar"
+              },
+              {
+                  "content": "\\overleftarrow{$1}",
+                  "name": "overleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overleftarrow"
+              },
+              {
+                  "content": "\\overrightarrow{$1}",
+                  "name": "overrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overrightarrow"
+              },
+              {
+                  "content": "\\breve{$1}",
+                  "name": "breve",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "breve"
+              },
+              {
+                  "content": "\\underleftarrow{$1}",
+                  "name": "underleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underleftarrow"
+              },
+              {
+                  "content": "\\underrightarrow{$1}",
+                  "name": "underrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underrightarrow"
+              },
+              {
+                  "content": "\\check{$1}",
+                  "name": "check",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "check"
+              },
+              {
+                  "content": "\\overleftharpoon{$1}",
+                  "name": "overleftharpoon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overleftharpoon"
+              },
+              {
+                  "content": "\\overrightharpoon{$1}",
+                  "name": "overrightharpoon",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overrightharpoon"
+              },
+              {
+                  "content": "\\dot{$1}",
+                  "name": "dot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dot"
+              },
+              {
+                  "content": "\\overleftrightarrow{$1}",
+                  "name": "overleftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overleftrightarrow"
+              },
+              {
+                  "content": "\\overbrace{$1}",
+                  "name": "overbrace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overbrace"
+              },
+              {
+                  "content": "\\ddot{$1}",
+                  "name": "ddot",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ddot"
+              },
+              {
+                  "content": "\\underleftrightarrow{$1}",
+                  "name": "underleftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underleftrightarrow"
+              },
+              {
+                  "content": "\\underbrace{$1}",
+                  "name": "underbrace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underbrace"
+              },
+              {
+                  "content": "\\grave{$1}",
+                  "name": "grave",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "grave"
+              },
+              {
+                  "content": "\\overline{$1}",
+                  "name": "overline",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overline"
+              },
+              {
+                  "content": "\\overlinesegment{$1}",
+                  "name": "overlinesegment",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overlinesegment"
+              },
+              {
+                  "content": "\\hat{$1}",
+                  "name": "hat",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hat"
+              },
+              {
+                  "content": "\\underline{$1}",
+                  "name": "underline",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underline"
+              },
+              {
+                  "content": "\\underlinesegment{$1}",
+                  "name": "underlinesegment",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underlinesegment"
+              },
+              {
+                  "content": "\\widehat{$1}",
+                  "name": "widehat",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "widehat"
+              },
+              {
+                  "content": "\\widecheck{$1}",
+                  "name": "widecheck",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "widecheck"
+              },
+              {
+                  "content": "\\cancel{$1}",
+                  "name": "cancel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cancel"
+              },
+              {
+                  "content": "\\bcancel{$1}",
+                  "name": "bcancel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bcancel"
+              },
+              {
+                  "content": "\\xcancel{$1}",
+                  "name": "xcancel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xcancel"
+              },
+              {
+                  "content": "\\not{$1} =",
+                  "name": "not =",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "not ="
+              },
+              {
+                  "content": "\\sout{$1}",
+                  "name": "sout",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sout"
+              },
+              {
+                  "content": "\\boxed{$1}",
+                  "name": "boxed",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "boxed"
+              },
+              {
+                  "content": "\\tag{$1}",
+                  "name": "tag",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tag"
+              },
+              {
+                  "content": "\\tag{$1}*",
+                  "name": "tag*",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tag*"
+              },
+              {
+                  "content": "\\substack{$1}",
+                  "name": "substack",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "substack"
+              },
+              {
+                  "content": "\\mathllap{$1}",
+                  "name": "mathllap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathllap"
+              },
+              {
+                  "content": "\\mathrlap{$1}",
+                  "name": "mathrlap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathrlap"
+              },
+              {
+                  "content": "\\mathclap{$1}",
+                  "name": "mathclap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathclap"
+              },
+              {
+                  "content": "\\llap{$1}",
+                  "name": "llap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "llap"
+              },
+              {
+                  "content": "\\rlap{$1}",
+                  "name": "rlap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "rlap"
+              },
+              {
+                  "content": "\\clap{$1}",
+                  "name": "clap",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "clap"
+              },
+              {
+                  "content": "\\smash{$1}",
+                  "name": "smash",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "smash"
+              },
+              {
+                  "content": "\\kern{$1}",
+                  "name": "kern",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "kern"
+              },
+              {
+                  "content": "\\mkern{$1}",
+                  "name": "mkern",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mkern"
+              },
+              {
+                  "content": "\\mskip{$1}",
+                  "name": "mskip",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mskip"
+              },
+              {
+                  "content": "\\hskip{$1}",
+                  "name": "hskip",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hskip"
+              },
+              {
+                  "content": "\\hspace{$1}",
+                  "name": "hspace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hspace"
+              },
+              {
+                  "content": "\\hspace{$1}*",
+                  "name": "hspace*",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hspace*"
+              },
+              {
+                  "content": "\\phantom{$1}",
+                  "name": "phantom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "phantom"
+              },
+              {
+                  "content": "\\hphantom{$1}",
+                  "name": "hphantom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "hphantom"
+              },
+              {
+                  "content": "\\vphantom{$1}",
+                  "name": "vphantom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "vphantom"
+              },
+              {
+                  "content": "\\operatorname{$1}",
+                  "name": "operatorname",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "operatorname"
+              },
+              {
+                  "content": "\\sqrt{$1}",
+                  "name": "sqrt",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "sqrt"
+              },
+              {
+                  "content": "\\xleftarrow{$1}",
+                  "name": "xleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xleftarrow"
+              },
+              {
+                  "content": "\\xrightarrow{$1}",
+                  "name": "xrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xrightarrow"
+              },
+              {
+                  "content": "\\xLeftarrow{$1}",
+                  "name": "xLeftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xLeftarrow"
+              },
+              {
+                  "content": "\\xRightarrow{$1}",
+                  "name": "xRightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xRightarrow"
+              },
+              {
+                  "content": "\\xleftrightarrow{$1}",
+                  "name": "xleftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xleftrightarrow"
+              },
+              {
+                  "content": "\\xLeftrightarrow{$1}",
+                  "name": "xLeftrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xLeftrightarrow"
+              },
+              {
+                  "content": "\\xhookleftarrow{$1}",
+                  "name": "xhookleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xhookleftarrow"
+              },
+              {
+                  "content": "\\xhookrightarrow{$1}",
+                  "name": "xhookrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xhookrightarrow"
+              },
+              {
+                  "content": "\\xtwoheadleftarrow{$1}",
+                  "name": "xtwoheadleftarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xtwoheadleftarrow"
+              },
+              {
+                  "content": "\\xtwoheadrightarrow{$1}",
+                  "name": "xtwoheadrightarrow",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xtwoheadrightarrow"
+              },
+              {
+                  "content": "\\xleftharpoonup{$1}",
+                  "name": "xleftharpoonup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xleftharpoonup"
+              },
+              {
+                  "content": "\\xrightharpoonup{$1}",
+                  "name": "xrightharpoonup",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xrightharpoonup"
+              },
+              {
+                  "content": "\\xleftharpoondown{$1}",
+                  "name": "xleftharpoondown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xleftharpoondown"
+              },
+              {
+                  "content": "\\xrightharpoondown{$1}",
+                  "name": "xrightharpoondown",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xrightharpoondown"
+              },
+              {
+                  "content": "\\xleftrightharpoons{$1}",
+                  "name": "xleftrightharpoons",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xleftrightharpoons"
+              },
+              {
+                  "content": "\\xrightleftharpoons{$1}",
+                  "name": "xrightleftharpoons",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xrightleftharpoons"
+              },
+              {
+                  "content": "\\xtofrom{$1}",
+                  "name": "xtofrom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xtofrom"
+              },
+              {
+                  "content": "\\xmapsto{$1}",
+                  "name": "xmapsto",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xmapsto"
+              },
+              {
+                  "content": "\\xlongequal{$1}",
+                  "name": "xlongequal",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "xlongequal"
+              },
+              {
+                  "content": "\\mathrm{$1}",
+                  "name": "mathrm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathrm"
+              },
+              {
+                  "content": "\\mathbf{$1}",
+                  "name": "mathbf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathbf"
+              },
+              {
+                  "content": "\\mathit{$1}",
+                  "name": "mathit",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathit"
+              },
+              {
+                  "content": "\\mathnormal{$1}",
+                  "name": "mathnormal",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathnormal"
+              },
+              {
+                  "content": "\\textbf{$1}",
+                  "name": "textbf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textbf"
+              },
+              {
+                  "content": "\\textit{$1}",
+                  "name": "textit",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textit"
+              },
+              {
+                  "content": "\\textrm{$1}",
+                  "name": "textrm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textrm"
+              },
+              {
+                  "content": "\\bold{$1}",
+                  "name": "bold",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bold"
+              },
+              {
+                  "content": "\\Bbb{$1}",
+                  "name": "Bbb",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bbb"
+              },
+              {
+                  "content": "\\textnormal{$1}",
+                  "name": "textnormal",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textnormal"
+              },
+              {
+                  "content": "\\boldsymbol{$1}",
+                  "name": "boldsymbol",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "boldsymbol"
+              },
+              {
+                  "content": "\\mathbb{$1}",
+                  "name": "mathbb",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathbb"
+              },
+              {
+                  "content": "\\text{$1}",
+                  "name": "text",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "text"
+              },
+              {
+                  "content": "\\bm{$1}",
+                  "name": "bm",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bm"
+              },
+              {
+                  "content": "\\frak{$1}",
+                  "name": "frak",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "frak"
+              },
+              {
+                  "content": "\\mathsf{$1}",
+                  "name": "mathsf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathsf"
+              },
+              {
+                  "content": "\\mathtt{$1}",
+                  "name": "mathtt",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathtt"
+              },
+              {
+                  "content": "\\mathfrak{$1}",
+                  "name": "mathfrak",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathfrak"
+              },
+              {
+                  "content": "\\textsf{$1}",
+                  "name": "textsf",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textsf"
+              },
+              {
+                  "content": "\\texttt{$1}",
+                  "name": "texttt",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "texttt"
+              },
+              {
+                  "content": "\\mathcal{$1}",
+                  "name": "mathcal",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathcal"
+              },
+              {
+                  "content": "\\mathscr{$1}",
+                  "name": "mathscr",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathscr"
+              },
+              {
+                  "content": "\\bra{$1}",
+                  "name": "bra",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "bra"
+              },
+              {
+                  "content": "\\Bra{$1}",
+                  "name": "Bra",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Bra"
+              },
+              {
+                  "content": "\\ket{$1}",
+                  "name": "ket",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "ket"
+              },
+              {
+                  "content": "\\Ket{$1}",
+                  "name": "Ket",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "Ket"
+              },
+              {
+                  "content": "\\braket{$1}",
+                  "name": "braket",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "braket"
+              },
+              {
+                  "content": "\\mathbin{$1}",
+                  "name": "mathbin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathbin"
+              },
+              {
+                  "content": "\\mathclose{$1}",
+                  "name": "mathclose",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathclose"
+              },
+              {
+                  "content": "\\mathinner{$1}",
+                  "name": "mathinner",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathinner"
+              },
+              {
+                  "content": "\\mathop{$1}",
+                  "name": "mathop",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathop"
+              },
+              {
+                  "content": "\\mathopen{$1}",
+                  "name": "mathopen",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathopen"
+              },
+              {
+                  "content": "\\mathord{$1}",
+                  "name": "mathord",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathord"
+              },
+              {
+                  "content": "\\mathpunct{$1}",
+                  "name": "mathpunct",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathpunct"
+              },
+              {
+                  "content": "\\mathrel{$1}",
+                  "name": "mathrel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "mathrel"
+              }
+          ]
+      },
+      {
+          "name": "2",
+          "children": [
+              {
+                  "content": "\\stackrel{$1}{$2}",
+                  "name": "stackrel",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "stackrel"
+              },
+              {
+                  "content": "\\overset{$1}{$2}",
+                  "name": "overset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "overset"
+              },
+              {
+                  "content": "\\underset{$1}{$2}",
+                  "name": "underset",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "underset"
+              },
+              {
+                  "content": "\\raisebox{$1}{$2}",
+                  "name": "raisebox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "raisebox"
+              },
+              {
+                  "content": "\\binom{$1}{$2}",
+                  "name": "binom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "binom"
+              },
+              {
+                  "content": "\\dbinom{$1}{$2}",
+                  "name": "dbinom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dbinom"
+              },
+              {
+                  "content": "\\tbinom{$1}{$2}",
+                  "name": "tbinom",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tbinom"
+              },
+              {
+                  "content": "\\brace{$1}{$2}",
+                  "name": "brace",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "brace"
+              },
+              {
+                  "content": "\\brack{$1}{$2}",
+                  "name": "brack",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "brack"
+              },
+              {
+                  "content": "\\frac{$1}{$2}",
+                  "name": "frac",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "frac"
+              },
+              {
+                  "content": "\\dfrac{$1}{$2}",
+                  "name": "dfrac",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "dfrac"
+              },
+              {
+                  "content": "\\tfrac{$1}{$2}",
+                  "name": "tfrac",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "tfrac"
+              },
+              {
+                  "content": "\\cfrac{$1}{$2}",
+                  "name": "cfrac",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "cfrac"
+              },
+              {
+                  "content": "\\genfrac{$1}{$2}",
+                  "name": "genfrac",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "genfrac"
+              },
+              {
+                  "content": "\\color{$1}{$2}",
+                  "name": "color",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "color"
+              },
+              {
+                  "content": "\\textcolor{$1}{$2}",
+                  "name": "textcolor",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "textcolor"
+              },
+              {
+                  "content": "\\colorbox{$1}{$2}",
+                  "name": "colorbox",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "colorbox"
+              },
+              {
+                  "content": "\\begin{$1}\n\t\n\\end{$1}",
+                  "name": "begin",
+                  "scope": "editor",
+                  "syntax": "markdown",
+                  "trigger": "begin"
+              }
+          ]
+      }
+  ]
+}
